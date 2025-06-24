@@ -83,6 +83,11 @@ Add the following configuration to your `mcp.json` file:
 }
 ```
 
+### To add to claude code:
+```bash
+claude mcp add-json search-tools '{"type":"stdio","command":"/Users/yourusername/.local/bin/uv","args":[ "run", "--directory", "/path/to/your/search-tools/directory", "main.py"]}'
+```
+
 ### 📍 Finding Your Paths
 
 To find the correct paths for your system:

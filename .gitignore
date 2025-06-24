@@ -11,3 +11,4 @@ wheels/
 .venv
 **/__pycache__
 **/.DS_Store
+REFERENCE.md
