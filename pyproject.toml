@@ -8,4 +8,5 @@ dependencies = [
     "mcp[cli]>=1.9.4",
     "cased-kit",
     "networkx>=3.5",
+    "scipy>=1.16.0",
 ]
